@@ -3,6 +3,8 @@ Public static main()
 {
 print();
 print();
+print();
+
 
 }
 }
